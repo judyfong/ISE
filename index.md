@@ -1,4 +1,6 @@
-# Year 1 Semester 1 Classes
+# Classes
+
+## Year 1 Semester 1 Classes
 
 ## Málfræði I Haust 2021
 
@@ -29,3 +31,23 @@ Use greynir's analyze function to learn where new phrase begins and ends: [https
 [Hljóðfræði study guide](https://docs.google.com/spreadsheets/d/1z0ZlYVDBuUbX9kWccWb_EH95WSNYB4mJuqu6qFaXEBg/edit#gid=0)
 
 [Free live captioning of RÚv](https://tiro.is)
+
+
+# Former classes
+
+## Year 3
+
+## Translation
+
+* Lawrence Venuti. The Translation Studies Reader.
+* Douglas Robinson. Western Translation Theory from Herodotus to Nietzsche.
+* Juliane House. Translation The Basics.
+* Juliane House. Translation Quality Assessment Past and Present.
+
+## Year 1 Semester 2
+
+## Íslenskt Mál II
+
+* Jón Gnarr. Sjóræninginn
+* Jón Gnarr. Útlaginn
+* Bernskubók
