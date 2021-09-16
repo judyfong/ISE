@@ -13,6 +13,8 @@
 
 [magic cheat sheet](https://www.alarichall.org.uk/teaching/Alaric's%20modern_icelandic_magic_sheet.pdf)
 
+[table for object cases for verbs on page 54](http://tungumalatorg.is/ifu/files/2011/08/Litli-m%C3%A1lfr%C3%A6%C3%B0ingurinn-%C3%AD-heild1.pdf)
+
 [Recording for transcript and replay later](https://tal.tiro.is)
 
 ## Íslenskt Mál I Haust 2021
