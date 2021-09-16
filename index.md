@@ -11,6 +11,8 @@
 
 [Grammar study guide](https://docs.google.com/document/d/1oI0dMGMCgmEpPrMQkYrpfxxNyEC_c9oN477jSUYgskc/edit#heading=h.9c3oddkoi70g)
 
+[magic cheat sheet](https://www.alarichall.org.uk/teaching/Alaric's%20modern_icelandic_magic_sheet.pdf)
+
 [Recording for transcript and replay later](https://tal.tiro.is)
 
 ## Íslenskt Mál I Haust 2021
