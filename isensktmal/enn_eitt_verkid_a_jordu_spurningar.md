@@ -1,27 +1,38 @@
 # Enn eitt verkið á jörðu: Verkefni 
 
 1. Af hverju er kalt í stofunni hjá sögumanni? 
-Af því að glugginn er brotinn.
+   
+   Af því að glugginn er brotinn.
 2. Sögumaður hringir í smið. Hvernig finnur hann smiðinn? 
-Hann finnur hann í símaskránni.
+
+   Hann finnur hann í símaskránni.
 3. Hvenær á hann von á smiðnum? 
-Að eiga von á = að búast við. Hann á von á honum á föstudaginn / á föstudeginum.
+
+   Að eiga von á = að búast við. Hann á von á honum á föstudaginn / á föstudeginum.
 4. Hvað gerir sögumaður í hádeginu á föstudeginum? 
-Hann fer í vín búðina / ríkið og kaupir viskípela og spænskan bjór.
+
+   Hann fer í vín búðina / ríkið og kaupir viskípela og spænskan bjór.
 5. Segið frá heimsókninni sem hann fékk síðdegis á föstudeginum. Hver kom? Hvað gerðu þeir? Hvað stóð heimsóknin lengi? 
+
    Kunningi sögumanns kom efitr vinnu. Þeir drukku bjór og kláruðu viskípelann. Kunninginn fór heim í hádeginu daginn eftir = þetta var svolitið löng heimsókn! 
 
 6. Hvað segir kunningi mannsins um iðnaðarmenn? 
-Hann segir að þeir séu (vera, viðtengingarháttur) óútreiknanlegir (= það er ekki hægt 	að treysta þeim) , gjörsamlega óskiljanlegir (impossible to understand, = það er erfitt 	að skilja þá) menn.
+
+   Hann segir að þeir séu (vera, viðtengingarháttur) óútreiknanlegir (= það er ekki hægt 	að treysta þeim) , gjörsamlega óskiljanlegir (impossible to understand, = það er erfitt 	að skilja þá) menn.
 7. Hvað kaupir sögumaður í vínbúðinni á laugardeginum? 
-Hann kaupir það sama og áður/daginn áður en hann bætir hvítvínsflösku við.
+
+   Hann kaupir það sama og áður/daginn áður en hann bætir hvítvínsflösku við.
 8. Segið frá samtalinu milli sögumanns og smiðsins á þriðjudeginum. 
-Smiðurinn afsakar sig, hann átti nefnilega afmæli á föstudaginn í vikunni áður – þess 	vegna gat hann ekki komið til að gera við gluggan. Hann var mjög upptekinn, hann 	hafði mikð að gera.
-Er hann miður sín? = vera mjög leiður
+
+   Smiðurinn afsakar sig, hann átti nefnilega afmæli á föstudaginn í vikunni áður – þess 	vegna gat hann ekki komið til að gera við gluggan. Hann var mjög upptekinn, hann 	hafði mikð að gera.
+   Er hann miður sín? = vera mjög leiður
 9. Hver er ný dagsetning fyrir komu smiðsins til sögumanns? 
-Hann ;tlar að koma í hádeginu / frekar snemma á föstudaginn / á föstudeginum.
+
+   Hann ætlar að koma í hádeginu / frekar snemma á föstudaginn / á föstudeginum.
 10. Smiðurinn ætlar að koma um hádegið en kemur ekki fyrr en kl. 16:30. Hvaða skýringu gefur hann? 
-Hann var í jarðarför – vinnufélagi hans dó í hræðilegu slysi í vinnunni.
+
+   Hann var í jarðarför – vinnufélagi hans dó í hræðilegu slysi í vinnunni.
+   
 11. Lýsið smiðnum. 
 
 12. Hvað býður sögumaður smiðnum? Hvað þiggur smiðurinn? 
