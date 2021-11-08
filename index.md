@@ -28,6 +28,8 @@ Use greynir's analyze function to learn where new phrase begins and ends: [https
 
 [Spell and grammar checker](https://yfirlestur.is/)
 
+[Enn eitt verkið á jörðu: Verkefni](islensktmal/enn_eitt_verkid_a_jordu_spurningar)
+
 ## Talþjálfun I Haust 2021
 ### Booklist</h3>
 * [Ari Páll Kristinsson. 1988. The Pronunciation of Modern Icelandic](https://ritaskra.arnastofnun.is/media/skraning_pdf/Ari_P%C3%A1ll_Kristinsson___1988__The_Pronunciation_of_Modern_Icelandic___3rd_ed.pdf)
