@@ -30,12 +30,16 @@ Use greynir's analyze function to learn where new phrase begins and ends: [https
 
 ## Talþjálfun I Haust 2021
 ### Booklist</h3>
-[Ari Páll Kristinsson. 1988. The Pronunciation of Modern Icelandic](https://ritaskra.arnastofnun.is/media/skraning_pdf/Ari_P%C3%A1ll_Kristinsson___1988__The_Pronunciation_of_Modern_Icelandic___3rd_ed.pdf)
+* [Ari Páll Kristinsson. 1988. The Pronunciation of Modern Icelandic](https://ritaskra.arnastofnun.is/media/skraning_pdf/Ari_P%C3%A1ll_Kristinsson___1988__The_Pronunciation_of_Modern_Icelandic___3rd_ed.pdf)
 
 [Hljóðfræði study guide](https://docs.google.com/spreadsheets/d/1z0ZlYVDBuUbX9kWccWb_EH95WSNYB4mJuqu6qFaXEBg/edit#gid=0)
 
 [Free live captioning of RÚv](https://tiro.is)
 
+## Year 2 Semester 1 Classes Haust 2021
+
+### Booklist
+* [Steinunn Sigurðardóttir. 2005. Sólskinshestur](https://www.forlagid.is/vara/solskinshestur/)
 
 # Former classes
 
