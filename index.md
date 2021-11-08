@@ -28,7 +28,7 @@ Use greynir's analyze function to learn where new phrase begins and ends: [https
 
 [Spell and grammar checker](https://yfirlestur.is/)
 
-[Enn eitt verkið á jörðu: Verkefni](islensktmal/enn_eitt_verkid_a_jordu_spurningar)
+[Enn eitt verkið á jörðu: Verkefni](islensktmal/enn_eitt_verkid_a_jordu_spurningar.md)
 
 ## Talþjálfun I Haust 2021
 ### Booklist</h3>
