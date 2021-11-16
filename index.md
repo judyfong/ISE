@@ -30,7 +30,10 @@ Use greynir's analyze function to learn where new phrase begins and ends: [https
 
 [Spell and grammar checker](https://yfirlestur.is/)
 
-[Enn eitt verkið á jörðu: Verkefni](islensktmal/enn_eitt_verkid_a_jordu_spurningar.md)
+### Worksheets
+
+* [Enn eitt verkið á jörðu: Verkefni](islensktmal/enn_eitt_verkid_a_jordu_spurningar.md)
+* [Með annan fótinn í Möðrudal og hinn í Bratislava](islensktmal/med_annan_fotinn_verkefni_og_svor_hopur_d.md)
 
 ## ÍSE105G Talþjálfun I Haust 2021
 ### Booklist
