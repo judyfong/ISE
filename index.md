@@ -2,7 +2,7 @@
 
 ## Year 1 Semester 1 Classes
 
-## Málfræði I Haust 2021
+## ÍSE102G Málfræði I Haust 2021
 
 ### Booklist
 
@@ -19,8 +19,8 @@
 
 [Recording for transcript and replay later](https://tal.tiro.is)
 
-## Íslenskt Mál I Haust 2021
-### Book list
+## ÍSE103G Íslenskt mál I Haust 2021
+### Booklist
 * Bragi Ólafsson. Dulnefnin
 * Snæbjörn Arngrímsson. Rannsóknin á leyndardómum Eyðhússins
 
@@ -32,8 +32,8 @@ Use greynir's analyze function to learn where new phrase begins and ends: [https
 
 [Enn eitt verkið á jörðu: Verkefni](islensktmal/enn_eitt_verkid_a_jordu_spurningar.md)
 
-## Talþjálfun I Haust 2021
-### Booklist</h3>
+## ÍSE105G Talþjálfun I Haust 2021
+### Booklist
 * [Ari Páll Kristinsson. 1988. The Pronunciation of Modern Icelandic](https://ritaskra.arnastofnun.is/media/skraning_pdf/Ari_P%C3%A1ll_Kristinsson___1988__The_Pronunciation_of_Modern_Icelandic___3rd_ed.pdf)
 
 [Hljóðfræði study guide](https://docs.google.com/spreadsheets/d/1z0ZlYVDBuUbX9kWccWb_EH95WSNYB4mJuqu6qFaXEBg/edit#gid=0)
