@@ -34,6 +34,7 @@ Use greynir's analyze function to learn where new phrase begins and ends: [https
 
 ### Worksheets
 
+* [Rósalind rektor vísað daglega á dyr](islensktmal/rosalind_rektor_visad_daglega_a_dyr.md)
 * [Enn eitt verkið á jörðu: Verkefni](islensktmal/enn_eitt_verkid_a_jordu_spurningar.md)
 * [Með annan fótinn í Möðrudal og hinn í Bratislava](islensktmal/med_annan_fotinn_verkefni_og_svor_hopur_d.md)
 
