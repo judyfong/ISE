@@ -13,6 +13,8 @@
 
 [Quizlet: kennimyndir af 50 algengra sterkra sagnir](https://quizlet.com/638153068/kennimyndir-50-algengra-sterkra-sagna-flash-cards/)
 
+[29 word dictionary from this class](https://projects.judyyfong.xyz/dictionary/hi_mf1.html)
+
 [Ízlenska - Icelandic Grammar Exercises](https://islenzka.is/aefingar/)
 
 [magic cheat sheet](https://www.alarichall.org.uk/teaching/Alaric's%20modern_icelandic_magic_sheet.pdf)
