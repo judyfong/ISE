@@ -1,8 +1,8 @@
-# Classes
+# [Íslenska sem annað mál BA - 180 ECTS einingar](https://www.hi.is/islenska_sem_annad_mal) / [Icelandic as a second language = 180 ECTS = BA degree](https://english.hi.is/icelandic_as_a_second_language_ba) Classes
 
 ## Year 1 Semester 1 Classes
 
-## ÍSE102G Málfræði I Haust 2021
+## ÍSE102G Málfræði / Grammar I Haust 2021
 
 ### Booklist
 
@@ -23,7 +23,7 @@
 
 [Recording for transcript and replay later](https://tal.tiro.is)
 
-## ÍSE103G Íslenskt mál I Haust 2021
+## ÍSE103G Íslenskt mál / Icelandic Language I Haust 2021
 ### Booklist
 * Bragi Ólafsson. Dulnefnin
 * Snæbjörn Arngrímsson. Rannsóknin á leyndardómum Eyðhússins
@@ -40,7 +40,7 @@ Use greynir's analyze function to learn where new phrase begins and ends: [https
 * [Enn eitt verkið á jörðu: Verkefni](islensktmal/enn_eitt_verkid_a_jordu_spurningar.md)
 * [Með annan fótinn í Möðrudal og hinn í Bratislava](islensktmal/med_annan_fotinn_verkefni_og_svor_hopur_d.md)
 
-## ÍSE105G Talþjálfun I Haust 2021
+## ÍSE105G Talþjálfun / Conversational practise I Haust 2021
 ### Booklist
 * [Ari Páll Kristinsson. 1988. The Pronunciation of Modern Icelandic](https://ritaskra.arnastofnun.is/media/skraning_pdf/Ari_P%C3%A1ll_Kristinsson___1988__The_Pronunciation_of_Modern_Icelandic___3rd_ed.pdf)
 
