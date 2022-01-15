@@ -1,5 +1,22 @@
 # [Íslenska sem annað mál BA - 180 ECTS einingar](https://www.hi.is/islenska_sem_annad_mal) / [Icelandic as a second language = 180 ECTS = BA degree](https://english.hi.is/icelandic_as_a_second_language_ba) Classes
 
+## Year 1 Semester 2 Classes
+
+## ÍSE201G Málfræði / Grammar II Vor 2022
+
+### Booklist
+* Ásta Svavarsdóttir & Margrét Jónsdóttir. Íslenska fyrir útlendinga
+* Ásta Svavarsdóttir. Æfingar með enskum glósum og leiðréttingarlyklum við bókina íslenska fyrir útlendinga
+
+## ÍSE204G Íslenskt mál / Icelandic Language II Vor 2022
+
+### Booklist
+* Landsteinar, kaflar 1-6.
+* Orðmyndun I-V, pdf-skjöl á Canvas.
+* Sagnasyrpa. Sögur á íslensku ásamt orðskýringum og verkefnum. 2012. Málvísindastofnun Háskóla Íslands, Reykjavík. [4 smásögur lesnar].
+* Snæbjörn Arngrímsson. 2020. Dularfulla styttan og drengurinn sem hvarf. Vaka-Helgafell, Reykjavík.
+* Kjörbók sem nemendur skrifa ritgerð um
+
 ## Year 1 Semester 1 Classes
 
 ## ÍSE102G Málfræði / Grammar I Haust 2021
@@ -27,6 +44,9 @@
 ### Booklist
 * Bragi Ólafsson. Dulnefnin
 * Snæbjörn Arngrímsson. Rannsóknin á leyndardómum Eyðhússins
+* Jón Gíslason, María Garðarsdóttir og Sigríður Þorvaldsdóttir. Óútgefið. Málnotkun, kaflar 1–10
+* Halldóra Thoroddsen. 2016. 90 sýni úr minni mínu. Sæmundur, Reykjavík/Mál og menning, Reykjavík.
+* Ordmyndun Samsett ord
 
 Use greynir's analyze function to learn where new phrase begins and ends: [https://greynir.is/analysis](https://greynir.is/analysis). Then use a dictionary to find the meaning: [https://malid.is](https://malid.is)
 
