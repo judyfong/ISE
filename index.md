@@ -12,7 +12,18 @@
 
 ### Booklist
 * Landsteinar, kaflar 1-6.
+    * [kafli 1](islensktmal/landsteinar/landsteinar_1_kafli.pdf)
+    * [kafli 2](islensktmal/landsteinar/landsteinar_2_kafli_vestfirdir.pdf)
+    * [kafli 3](islensktmal/landsteinar/landsteinar_3_kafli_nordurland.pdf)
+    * [kafli 4](islensktmal/landsteinar/landsteinar_4_kafli_austurland.pdf)
+    * [kafli 5](islensktmal/landsteinar/landsteinar_5_kafli_sudurland.pdf)
+    * [kafli 6](islensktmal/landsteinar/landsteinar_6_kafli_reykjavik_og_nagrenni.pdf)
 * Orðmyndun I-V, pdf-skjöl á Canvas.
+    * [I](islensktmal/ordmyndun/Ordmyndun_I.pdf)
+    * [II](islensktmal/ordmyndun/Ordmyndun_II.pdf)
+    * [III](islensktmal/ordmyndun/Ordmyndun_III.pdf)
+    * [IV](islensktmal/ordmyndun/Ordmyndun_IV.pdf)
+    * [V](islensktmal/ordmyndun/Ordmyndun_V.pdf)
 * Sagnasyrpa. Sögur á íslensku ásamt orðskýringum og verkefnum. 2012. Málvísindastofnun Háskóla Íslands, Reykjavík. [4 smásögur lesnar].
 * Snæbjörn Arngrímsson. 2020. Dularfulla styttan og drengurinn sem hvarf. Vaka-Helgafell, Reykjavík.
 * Kjörbók sem nemendur skrifa ritgerð um
@@ -45,6 +56,16 @@
 * Bragi Ólafsson. Dulnefnin
 * Snæbjörn Arngrímsson. Rannsóknin á leyndardómum Eyðhússins
 * Jón Gíslason, María Garðarsdóttir og Sigríður Þorvaldsdóttir. Óútgefið. Málnotkun, kaflar 1–10
+    * [kafli 1](islensktmal/malnotkun/malnotkun_001kafli.pdf)
+    * [kafli 2](islensktmal/malnotkun/malnotkun_002kafli.pdf)
+    * [kafli 3](islensktmal/malnotkun/malnotkun_003kafli.pdf)
+    * [kafli 4](islensktmal/malnotkun/malnotkun_004kafli.pdf)
+    * [kafli 5](islensktmal/malnotkun/malnotkun_005kafli.pdf)
+    * [kafli 6](islensktmal/malnotkun/malnotkun_006kafli_2020.pdf)
+    * [kafli 7](islensktmal/malnotkun/malnotkun_007kafli_2020.pdf)
+    * [kafli 8](islensktmal/malnotkun/malnotkun_008kafli_2020.pdf)
+    * [kafli 9](islensktmal/malnotkun/malnotkun_009kafli_2020.pdf)
+    * [kafli 10](islensktmal/malnotkun/malnotkun_010kafli_2020.pdf)
 * Halldóra Thoroddsen. 2016. 90 sýni úr minni mínu. Sæmundur, Reykjavík/Mál og menning, Reykjavík.
 * Ordmyndun Samsett ord
 
