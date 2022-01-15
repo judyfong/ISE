@@ -1,4 +1,4 @@
-# [Íslenska sem annað mál BA - 180 ECTS einingar](https://www.hi.is/islenska_sem_annad_mal) / [Icelandic as a second language = 180 ECTS = BA degree](https://english.hi.is/icelandic_as_a_second_language_ba) Classes
+# [Íslenska sem annað mál BA - 180 ECTS einingar](https://www.hi.is/islenska_sem_annad_mal) / [Icelandic as a second language - 180 ECTS - BA degree](https://english.hi.is/icelandic_as_a_second_language_ba) Classes
 
 ## Year 1 Semester 2 Classes
 
@@ -27,6 +27,9 @@
 * Sagnasyrpa. Sögur á íslensku ásamt orðskýringum og verkefnum. 2012. Málvísindastofnun Háskóla Íslands, Reykjavík. [4 smásögur lesnar].
 * Snæbjörn Arngrímsson. 2020. Dularfulla styttan og drengurinn sem hvarf. Vaka-Helgafell, Reykjavík.
 * Kjörbók sem nemendur skrifa ritgerð um
+    * Guðrún Eva Mínervudóttir. Aðferðir til að lifa af
+    * Sigrún Pálsdóttir. Dyngja
+    * Dagur Hjartarson. Við erum ekki morðingjar
 
 ## Year 1 Semester 1 Classes
 
