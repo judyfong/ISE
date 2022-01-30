@@ -8,6 +8,8 @@
 * Ásta Svavarsdóttir & Margrét Jónsdóttir. Íslenska fyrir útlendinga
 * Ásta Svavarsdóttir. Æfingar með enskum glósum og leiðréttingarlyklum við bókina íslenska fyrir útlendinga
 
+[Quizlet - stigbreyting lýsingarorða](https://quizlet.com/664306889/stigbreyting-lysingarorda-flash-cards/)
+
 ## ÍSE204G Íslenskt mál / Icelandic Language II Vor 2022
 
 ### Booklist
