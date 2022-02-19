@@ -23,6 +23,9 @@ nickname counterparts. Nicknames are also often called pet names.
 | Kolbrún | Kolla |
 | Málfriður | Malla |
 | Páll | Palli |
+| Ragheiður | Ragga |
+| Ragnar | Raggi | 
+| Róbert | Robbi |
 | Sólveig | Solla |
 | Valborg | Vallý |
 | Vilhjálmur | Villi |
