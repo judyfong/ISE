@@ -10,6 +10,8 @@
 
 [Quizlet - stigbreyting lýsingarorða](https://quizlet.com/664306889/stigbreyting-lysingarorda-flash-cards/)
 
+[Málfræðiverkefni 2](malfraedi/malfraediverkefni_2.html)
+
 ## ÍSE204G Íslenskt mál / Icelandic Language II Vor 2022
 
 ### Booklist
