@@ -9,6 +9,9 @@
 * Ásta Svavarsdóttir. Æfingar með enskum glósum og leiðréttingarlyklum við bókina íslenska fyrir útlendinga
 
 [Quizlet - stigbreyting lýsingarorða](https://quizlet.com/664306889/stigbreyting-lysingarorda-flash-cards/)
+[Quizlet - þolmynd](https://quizlet.com/691113988/tholmynd-flash-cards/?x=1jqt)
+[Icelandic Grammar website](https://icelandicgrammar.com/docs) - alternative explanation of Icelandic grammar
+
 
 [Málfræðiverkefni 2](malfraedi/malfraediverkefni_2.html)
 
