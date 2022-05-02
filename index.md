@@ -40,6 +40,10 @@
     * Sigrún Pálsdóttir. Dyngja
     * Dagur Hjartarson. Við erum ekki morðingjar
 
+## ÍSE205G Talþjálfun II / Conversational Practice II Vor 2022
+
+* [Consonants](hljodfraedi/is/samhljodar.html)
+
 ## Year 1 Semester 1 Classes
 
 ## ÍSE102G Málfræði / Grammar I Haust 2021
