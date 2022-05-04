@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <meta name="description" content="Icelandic phonetics chart">
     <meta name="author" content="Judy Fong and Michael Danner">
-    <title>Íslensk Brottföll</title>
+    <title>Icelandic devoicing</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -47,7 +47,7 @@
   </head>
   <body>
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-      <a class="navbar-brand" href="../../index.html">ISE vefsíða</a>
+      <a class="navbar-brand" href="../../index.html">ISE website</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -55,22 +55,22 @@
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
-            <a class="nav-link" href="../../index.html">Heim</a>
+            <a class="nav-link" href="../../index.html">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="samhljodar.html">Samhljóðar</a>
+            <a class="nav-link" href="consonants.html">Consonants</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="adblastur.html">Aðblastur</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="afroddun.html">Afröddun</a>
+            <a class="nav-link" href="preaspiration.html">Preaspiration</a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="brottfall.html">Brottfall</a>
+            <a class="nav-link" href="devoice.html">Devoice</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../en/elision.html">EN</a>
+            <a class="nav-link" href="elision.html">Elision</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../is/afroddun.html">ÍS</a>
           </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
@@ -83,24 +83,31 @@
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron">
         <div class="container">
-          <h3>Íslensk brottföll</h3>
+          <h3>Icelandic Devoicing</h3>
         </div>
       </div>
 
       <div class="container">
         <!-- Example row of columns -->
-        <table class="table" id="Elision-table">
+        <table class="table" id="Devoice-h-table">
         </table>
         <script src="../csv-to-table.js"></script>
         <script>
-            data2table("#Elision-table","brottfall.csv");
+            data2table("#Devoice-h-table","devoice-h.csv");
+        </script>
+        <!-- Example row of columns -->
+        <table class="table" id="Devoice-ptk-table">
+        </table>
+        <script src="../csv-to-table.js"></script>
+        <script>
+            data2table("#Devoice-ptk-table","devoice-ptk.csv");
         </script>
       </div>
 
     </main>
 
     <footer class="container">
-      <p>&copy; Judy Fong 2022. Þyðing eftir Judy.</p>
+      <p>&copy; Judy Fong 2022.</p>
           <p><a href="https://docs.google.com/spreadsheets/d/1z0ZlYVDBuUbX9kWccWb_EH95WSNYB4mJuqu6qFaXEBg/edit#gid=2142766638">The chart comes from &copy; Michael Danner 2021.</a>
           </p>
     </footer>
