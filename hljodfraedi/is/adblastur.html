@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <meta name="description" content="Icelandic phonetics chart">
     <meta name="author" content="Judy Fong and Michael Danner">
-    <title>Icelandic consonants</title>
+    <title>Aðblastur</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -47,7 +47,7 @@
   </head>
   <body>
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-      <a class="navbar-brand" href="../../index.html">ISE website</a>
+      <a class="navbar-brand" href="../../index.html">ISE vefsíða</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -55,19 +55,19 @@
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
-            <a class="nav-link" href="../../index.html">Home</a>
+            <a class="nav-link" href="../../index.html">Heim</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="samhljodar.html">Samhljóðar</a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="#">Consonants</a>
+            <a class="nav-link" href="adblastur.html">Aðblastur</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="preaspiration.html">Preaspiration</a>
+            <a class="nav-link" href="brottfall.html">Brottfall</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="elision.html">Elision</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="../is/samhljodar.html">ÍS</a>
+            <a class="nav-link" href="../en/preaspiration.html">EN</a>
           </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
@@ -80,25 +80,25 @@
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron">
         <div class="container">
-          <h3>Icelandic Consonants</h3>
+          <h3>Aðblastur</h3>
         </div>
       </div>
 
       <div class="container">
         <!-- Example row of columns -->
-        <table class="table" id="Consonants-table">
+        <table class="table" id="Preaspiration-table">
         </table>
         <script src="../csv-to-table.js"></script>
         <script>
-            data2table("#Consonants-table","consonants.csv");
+            data2table("#Preaspiration-table","adblastur.csv");
         </script>
       </div>
 
     </main>
 
     <footer class="container">
-      <p>&copy; Judy Fong 2022. Translations by Judy Fong.</p>
-          <p><a href="https://docs.google.com/spreadsheets/d/1z0ZlYVDBuUbX9kWccWb_EH95WSNYB4mJuqu6qFaXEBg/edit#gid=647725096">The chart comes from &copy; Michael Danner 2021.</a>
+      <p>&copy; Judy Fong 2022.</p>
+          <p><a href="https://docs.google.com/spreadsheets/d/1z0ZlYVDBuUbX9kWccWb_EH95WSNYB4mJuqu6qFaXEBg/edit#gid=1145290374">Some of the chart comes from &copy; Michael Danner 2021.</a>
           </p>
     </footer>
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
