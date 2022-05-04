@@ -43,6 +43,7 @@
 ## ÍSE205G Talþjálfun II / Conversational Practice II Vor 2022
 
 * [Consonants](hljodfraedi/is/samhljodar.html)
+* [Elision](hljodfraedi/en/elision.html)
 
 ## Year 1 Semester 1 Classes
 
