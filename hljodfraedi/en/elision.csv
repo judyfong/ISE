@@ -1,0 +1,6 @@
+Letter,Phoneme,Application,Condition,Example
+þ,[ ] ,Pronouns and prepositions beginning with þ,Previous word ends with a consonant,Hvað heitir [ ]essi kona?
+þ,[ð] ,Pronouns and prepositions beginning with þ,Previous word ends with a vowel,Ætla [ð]au að fara?
+h,[ ] ,Pronouns beginning with h,The pronoun is not the first word of the sentence,Hvað heitir [ ]ann?
+<any vowel>,[ ] ,Any word ending with a vowel,The following word begins with a vowel,Kemurð[ ] á morgun?
+ð,[ ] ,Speaking a bit fast or unclear,Words containing ð which was derived from þ,Hvað segir[ ]u?
