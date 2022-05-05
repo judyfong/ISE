@@ -1,0 +1,20 @@
+ Letters,Phoneme,Example Phoneme word,In the beginning of a word,Example beginning of word,In the middle of a word,Example of middle of word
+g,[k],gaman,"g does not come before j, i, í, y, ý, e, ei, ey, æ","gaman, gulur, grænn, glas","g comes after any consonant or before l,n","tólg, ganga, borga, sigla, rigna"
+g,[c],gefa,"g comes before j, i, í, y, ý, e, ei, ey, æ","gjöf, gítar, giska, gefa, geyma","g comes after l,n,r and before j,i,í,ei,ey,æ","bylgja, helgi, fangelsi"
+g,[ɣ],saga,,,"g comes after any vowel and before a,u,ð,r","saga, dagur, sagði, sigra, lög"
+g,[x],sagt,,,"g comes before t,s","sagt, hugsa"
+g,[j],skóginn,,,"g comes after a vowel and before i,j","segja, segi"
+g,[ ],fljúga,,,"g comes after á,ó,ú and before a,u","mágur, lóga, fljúga"
+k,[ch],kista,"k comes before j, i, í, y, ý, e, ei, ey, æ","kjóll, kína, kemur, kæra",,
+k,[kh],kasta,"k does not come before j, i, í, y, ý, e, ei, ey, æ","koma, kanna, kría, klár",,
+k,[c],poki,,,"k comes before i,j","Reykjavík, poki, Loki, banki"
+k,[k],taka,,,,"aka, Akureyri, skápur, loka"
+k,[x],rakt,,,"k comes before t,s","rakt, slöggt, rækta, rekstur, buxur"
+p, [ph],penni,,,,
+p,[p],tapa,,,,
+p,[f],skipta,,,p comes before t,"skipta, Egyptaland, september, keypti, keppti, sleppti"
+f,[f],fá,,,,
+f,[v],lifa,,,,
+f,[p],sofna,,,"f comes before l,n",
+f,[m],hefnd,,,,
+f,[m̥],nefnt,,,,
