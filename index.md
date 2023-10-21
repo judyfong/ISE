@@ -110,7 +110,7 @@ Use greynir's analyze function to learn where new phrase begins and ends: [https
 
 [Hljóðfræði study guide](https://docs.google.com/spreadsheets/d/1z0ZlYVDBuUbX9kWccWb_EH95WSNYB4mJuqu6qFaXEBg/edit#gid=0)
 
-[Free live captioning of RÚv](https://tiro.is)
+[Free live captioning of RÚV](https://tiro.is)
 
 ## Year 2 Semester 1 Classes Haust 2021
 
