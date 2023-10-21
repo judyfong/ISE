@@ -2,9 +2,9 @@
 
 ### Haustmisseri 2023 Sagnaheimur miðalda: Hetjur, goð og kvenskörungar
 
-### Kennari: Brynja Þorgeirsdóttir
+Kennari: Brynja Þorgeirsdóttir
 
-#### Námefni
+### Námsefni
 
 * [Laxdæla saga](https://www.snerpa.is/net/isl/laxdal.htm)
     * english translation [The Sagas of Icelanders](https://www.amazon.com/Sagas-Icelanders-Penguin-Classics-Deluxe/dp/0141000031)

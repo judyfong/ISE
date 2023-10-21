@@ -115,7 +115,7 @@ Use greynir's analyze function to learn where new phrase begins and ends: [https
 
 ### Sagnaheimur miðalda: Hetjur, goð og kvenskörungar
 
-[námefni](ISEY3)
+[námsefni](ISEY3)
 
 # Former classes
 
