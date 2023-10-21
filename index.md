@@ -1,5 +1,11 @@
 # [Íslenska sem annað mál BA - 180 ECTS einingar](https://www.hi.is/islenska_sem_annad_mal) / [Icelandic as a second language - 180 ECTS - BA degree](https://english.hi.is/icelandic_as_a_second_language_ba) Classes
 
+## Year 3 Haustmisseri 2023
+
+### Sagnaheimur miðalda: Hetjur, goð og kvenskörungar
+
+[námsefni](ISEY3)
+
 ## Year 1 Semester 2 Classes
 
 ## ÍSE201G Málfræði / Grammar II Vor 2022
@@ -110,12 +116,6 @@ Use greynir's analyze function to learn where new phrase begins and ends: [https
 
 ### Booklist
 * [Steinunn Sigurðardóttir. 2005. Sólskinshestur](https://www.forlagid.is/vara/solskinshestur/)
-
-## Year 3 Haustmisseri 2023
-
-### Sagnaheimur miðalda: Hetjur, goð og kvenskörungar
-
-[námsefni](ISEY3)
 
 # Former classes
 
