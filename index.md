@@ -111,6 +111,12 @@ Use greynir's analyze function to learn where new phrase begins and ends: [https
 ### Booklist
 * [Steinunn Sigurðardóttir. 2005. Sólskinshestur](https://www.forlagid.is/vara/solskinshestur/)
 
+## Year 3 Haustmisseri 2023
+
+### Sagnaheimur miðalda: Hetjur, goð og kvenskörungar
+
+[námefni](ISEY3)
+
 # Former classes
 
 ## Year 3
