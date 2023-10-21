@@ -7,7 +7,7 @@
 
 Kennari: Brynja Þorgeirsdóttir
 
-### Námsefni
+#### Námsefni
 
 * [Laxdæla saga](https://www.snerpa.is/net/isl/laxdal.htm)
     * english translation [The Sagas of Icelanders](https://www.amazon.com/Sagas-Icelanders-Penguin-Classics-Deluxe/dp/0141000031)
