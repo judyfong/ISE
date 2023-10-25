@@ -6,6 +6,12 @@
 
 [námsefni](ISEY3)
 
+## Year 2 Haustmisseri 2023
+
+### ÍSE305G Hljóð- og hljóðkerfisfræði
+
+[námsefni](ISEY2)
+
 ## Year 1 Semester 2 Classes
 
 ## ÍSE201G Málfræði / Grammar II Vor 2022
