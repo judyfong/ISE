@@ -24,9 +24,13 @@ You can also use Google Docs. Insert > Special Characters > Latin > Phonetics (I
 
 #### Relevant links
 [Icelandic pronunciation dictionary - example is banki](https://nlp.talgreinir.is/pron/banki)
+
 [Icelandic TTS with IPA transcription](https://nlp.talgreinir.is/pron:submit)
+
 [Hljóðfræðimyndbönd](https://www.youtube.com/playlist?list=PLuJKfNbDiFJHo27gCgWCy_fOc0OHgRV4B)
+
 [Type IPA phonetic symbols](https://ipa.typeit.org/full/)
+
 [Copy IPA symbols](http://westonruter.github.io/ipa-chart/keyboard/)
 
 [back to index](index)
