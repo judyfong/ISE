@@ -14,6 +14,8 @@ Kennari: Brynja Þorgeirsdóttir
     * Tracking characters' movements: [Sagamap](http://sagamap.hi.is/is)
     * [English video summary by Jackson Crawford part 1/2](https://youtu.be/-b-yr8Ul4hM?feature=shared)
     * in French Régis Boyer, Sagas islandaises, Pléiade (available at landsbókasafn)
+* [Völsunga söga]
+    * [Stuðningsefni og kennsluleiðbeiningar frá Hann Ingbjörg Arnarsdóttir og Sara Ólafsdóttir](https://skemman.is/bitstream/1946/9498/1/Stu%C3%B0ningsefni%20og%20kennslulei%C3%B0beiningar%20me%C3%B0%20V%C3%B6lsunga%20s%C3%B6gu.pdf)
 
 
 

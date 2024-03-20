@@ -29,6 +29,8 @@
 
 [Málfræðiverkefni 2](malfraedi/malfraediverkefni_2.html)
 
+[Huldumál and Erik Maher recommended resources - 2024](https://drive.google.com/drive/folders/1MGe_szX708jMtJt7Xlw-BJM4DHszVb0Y)
+
 ## ÍSE204G Íslenskt mál / Icelandic Language II Vor 2022
 
 ### Booklist
