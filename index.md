@@ -1,6 +1,6 @@
 # [Íslenska sem annað mál BA - 180 ECTS einingar](https://www.hi.is/islenska_sem_annad_mal) / [Icelandic as a second language - 180 ECTS - BA degree](https://english.hi.is/icelandic_as_a_second_language_ba) Classes
 
-## Optional Classes Sprint Semester 2024
+## Optional Classes Spring Semester 2024
 
 [ÍSE509G - Kennsla íslensku](ISE-optional)
 
