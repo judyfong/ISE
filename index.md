@@ -30,6 +30,8 @@
 
 [Málfræðiverkefni 2](malfraedi/malfraediverkefni_2.html)
 
+[Glósur](https://projects.judyyfong.xyz/Mih/ISE201G-malfraedi-II/index.html) - in reverse chronological order
+
 [Huldumál and Erik Maher recommended resources - 2024](https://drive.google.com/drive/folders/1MGe_szX708jMtJt7Xlw-BJM4DHszVb0Y)
 
 ## ÍSE204G Íslenskt mál / Icelandic Language II Vor 2022
